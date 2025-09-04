@@ -1,0 +1,282 @@
+[
+    {
+        "shop_name":"Drankdozijn",
+        "full_name":"Jagermeister 1LTR",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1000 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":17.5,
+        "link":"https:\/\/drankdozijn.nl\/artikel\/fles-jagermeister-1ltr"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1000 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":17.5,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-100-cl.html"
+    },
+    {
+        "shop_name":"Drankdozijn",
+        "full_name":"Jagermeister Pantone Design Edition 70CL",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"700 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":18.5,
+        "link":"https:\/\/drankdozijn.nl\/artikel\/fles-jagermeister-pantone-design-edition-70cl"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"700 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":21.3571428571,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister.html"
+    },
+    {
+        "shop_name":"Plus",
+        "full_name":"Jagermeister Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1750 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":21.7085714286,
+        "link":"https:\/\/www.plus.nl\/product\/jagermeister-jagermeister-fles-1750-ml-205505"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister Magnum",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1750 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":25.1142857143,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-175cl.html"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1000 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":25.49,
+        "link":"https:\/\/www.gall.nl\/j%C3%A4germeister-100cl-599050.html"
+    },
+    {
+        "shop_name":"Plus",
+        "full_name":"Jagermeister Kruidenbitter",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1000 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":25.49,
+        "link":"https:\/\/www.plus.nl\/product\/jagermeister-kruidenbitter-fles-1000-ml-879455"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"700 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":26.4142857143,
+        "link":"https:\/\/www.gall.nl\/j%C3%A4germeister-70cl-600601.html"
+    },
+    {
+        "shop_name":"Plus",
+        "full_name":"Jagermeister Kruidenbitter",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"700 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":26.4142857143,
+        "link":"https:\/\/www.plus.nl\/product\/jagermeister-kruidenbitter-fles-700-ml-118901"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister Cadeaupakket 1.75 met shotglazen",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1750 ml",
+        "bundle_type":"Cadeau",
+        "price_in_euro_per_liter_excl_deposit":26.8285714286,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-cadeaupakket-1-75-met-shotglazen.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister Cadeaupakket + Shotglaasjes Metaal",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"1000 ml",
+        "bundle_type":"Cadeau",
+        "price_in_euro_per_liter_excl_deposit":26.95,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-cadeaupakket-shotglaasjes-metaal.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"350 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":28.4285714286,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-35-cl.html"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister Cadeaupakket met 2 shotglazen",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"700 ml",
+        "bundle_type":"Cadeau",
+        "price_in_euro_per_liter_excl_deposit":32.1285714286,
+        "link":"https:\/\/www.gall.nl\/jagermeister-cadeaupakket-met-2-shotglazen-70cl-903353.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister Zakflacon",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"200 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":32.5,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-zakflacon.html"
+    },
+    {
+        "shop_name":"Plus",
+        "full_name":"Jagermeister Kruidenbitter",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"350 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":32.8285714286,
+        "link":"https:\/\/www.plus.nl\/product\/jagermeister-kruidenbitter-fles-350-ml-118898"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"350 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":32.8285714286,
+        "link":"https:\/\/www.gall.nl\/j%C3%A4germeister-35cl-600466.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister Jeroboam",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"3000 ml",
+        "bundle_type":"Normaal",
+        "price_in_euro_per_liter_excl_deposit":33.1666666667,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-jeroboam.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"100 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":39.5,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-10-cl.html"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"200 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":39.95,
+        "link":"https:\/\/www.gall.nl\/j%C3%A4germeister-20cl-599913.html"
+    },
+    {
+        "shop_name":"Plus",
+        "full_name":"Jagermeister Kruidenbitter",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"200 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":39.95,
+        "link":"https:\/\/www.plus.nl\/product\/jagermeister-kruidenbitter-fles-200-ml-702930"
+    },
+    {
+        "shop_name":"Drankdozijn",
+        "full_name":"Jagermeister miniaturen 24X2CL",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"480 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":51.9791666667,
+        "link":"https:\/\/drankdozijn.nl\/artikel\/tray-jagermeister-miniaturen-24x2cl"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister 24 Mini Box",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"480 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":56.1458333333,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-box-24-mini.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister 4cl Mini",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"40 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":62.5,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-mini-4-cl.html"
+    },
+    {
+        "shop_name":"Plus",
+        "full_name":"Jagermeister Bitter 9-pack",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"jagermeister",
+        "total_ml":"180 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":72.1666666667,
+        "link":"https:\/\/www.plus.nl\/product\/jagermeister-bitter-9-pack-set-180-ml-926068"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"180 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":72.1666666667,
+        "link":"https:\/\/www.gall.nl\/j%C3%A4germeister-9x2cl-415219.html"
+    },
+    {
+        "shop_name":"Drankgigant",
+        "full_name":"Jagermeister Mini",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"20 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":75.0,
+        "link":"https:\/\/www.drankgigant.nl\/jagermeister-mini-2-cl.html"
+    },
+    {
+        "shop_name":"Gall",
+        "full_name":"Jagermeister",
+        "liquor_type":"J\u00e4germeister",
+        "brand_name":"J\u00e4germeister",
+        "total_ml":"40 ml",
+        "bundle_type":"Mini's",
+        "price_in_euro_per_liter_excl_deposit":104.75,
+        "link":"https:\/\/www.gall.nl\/j%C3%A4germeister-4cl-600407.html"
+    }
+]
